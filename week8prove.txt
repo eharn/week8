@@ -1,0 +1,16 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+       https://github.com/eharn/week8
+3. Briefly list and describe the elements of the application that are functioning.
+        The json file is displaying correctly, everything seems to be working.
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+        everything seems to be working.
+5. Briefly describe the “coolest” thing you learned while completing this assignment.
+        how similar to frontend work this was this week, i love json and seeing it display.
+6. If you could change this assignment to be more effective or helpful, what would you change?
+        If there was a simple list of instructions this could have been less floundering and more learning.
+7. Please select the category you feel best describes your assignment:
+   4
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+    everything is working properly and it was fun to see it all get there.
